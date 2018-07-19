@@ -1,1 +1,1 @@
-# summer2018
+This is a simple calculator.
